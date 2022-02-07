@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [YourCommunityWorkshop](https://github.com/okyyy5/YourCommunityWorkshop)
 
-- 🌱 I’m currently learning **Java, C#, .NET**
+- 🌱 I’m currently learning **Java, C#, .NET , ASP.NET**
 
 - 📫 How to reach me **oktaytr170@gmail.com**
 
