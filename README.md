@@ -1,9 +1,9 @@
 <h1 align="center">Hi I'm Oktay Turdu</h1>
-<h3 align="center">Software Developer and Aspiring Data Scientist</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [YourCommunityWorkshop](https://github.com/okyyy5/YourCommunityWorkshop)
+- 🔭 I’m currently working on several personal projects
 
-- 🌱 I’m currently learning **Java, C#, .NET , ASP.NET**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **oktaytr170@gmail.com**
 
